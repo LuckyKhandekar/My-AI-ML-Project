@@ -1,2 +1,2 @@
-# My-AI-ML-Project
+# Project2
 AI/ML projects
